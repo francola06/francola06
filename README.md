@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-abc
-test
+My name is Loren! I am a Clinical Informatics Analyst for a large Multispecialty & Urgent Care Practice on the east-coast. 
+
+I'm currently learning the MERN stack in a Full-Stack Bootcamp. 
+
+I am looking to collaborate on emerging healthcare technologies. 
+
 
 <!--
 **francola06/francola06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
