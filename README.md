@@ -1,19 +1,19 @@
-## Hi there 👋
-
-abc
-test
-
+<h1 align="center">hi, i'm loren 👋</h1>
+# 👩‍⚕️ Clinical Informatics | Healthcare Products | Data Analysis
+<h3 align="center">🌱 i'm an aspiring jr software engineer currently focused on the MERN stack</h3>
+### 💼 Current Role @ VillageMD
+### 🏥 **Clinical Informatics Analyst**  
+### 📍 New Jersey
 <!--
 **francola06/francola06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  ⚡
