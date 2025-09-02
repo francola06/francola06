@@ -8,8 +8,8 @@
 <p>🔭 I’m currently working on a staff-facing healthcare check-in product</p><br>
 <table align="center" >
 <tr>
-<td>Clinical Informatics&nbsp&nbsp&nbsp&nbsp&nbsp|</td>
-<td>Healthcare Products&nbsp&nbsp&nbsp&nbsp&nbsp|</td>
+<td>Clinical Informatics</td>
+<td>Healthcare Products</td>
 <td>Data Analytics</td>
 </tr>
 </table>
