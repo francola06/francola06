@@ -6,8 +6,8 @@
 
 <br>
 <p>🔭 I’m currently working on a staff-facing healthcare check-in product</p><br>
-<table align="center" style="border-top: 1px solid grey; ">
-<tr>
+<table align="center" >
+<tr style="border-top: 1px solid grey; ">
 <td>Clinical Informatics&nbsp&nbsp&nbsp&nbsp&nbsp|</td>
 <td>Healthcare Products&nbsp&nbsp&nbsp&nbsp&nbsp|</td>
 <td>Data Analytics</td>
